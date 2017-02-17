@@ -2,13 +2,6 @@
 
 namespace Another\GreatNamespace;
 
-/**
- * Created by PhpStorm.
- * User: jean
- * Date: 20/10/16
- * Time: 14:40
- */
-
 class TestClass
 {
 	public function testFunction() {
